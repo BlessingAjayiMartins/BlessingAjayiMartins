@@ -1,5 +1,4 @@
 - 👋 Hi, i'm Blessing!
-- Javascript Engineer
 - Frontend development with Reactjs + HTML5 + CSS3 + Bootstrap + Firebase + Redux + Cypress.io
 - Nodejs + Express + REST API
 - Mobile development with React Native + Android studio + AppCenter + google play store
