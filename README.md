@@ -4,5 +4,5 @@
 - API: Nodejs + Express
 - Mobile: React Native + Android studio + AppCenter + google play store
 - Databases: Firebase Realtime Database, Cloud Firestore, PostgreSql, SQL, Neo4j
-- Testing: JUnit, Selenium, Cucumber, Cypress.io, Postman
+- Testing: JUnit, Selenium, Cucumber, Cypress.io, Postman, RestAssured
 - 📫 Feel free to send me an email : blessmartins@gmail.com
